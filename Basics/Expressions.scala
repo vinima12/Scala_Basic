@@ -1,7 +1,7 @@
 package Basics
 
 object Expressions extends App{
-  val x = 1 + 2
+  val x = 1 + 3
   println(x)
   println(2 + 3 * 4)
   println(1 == x)
