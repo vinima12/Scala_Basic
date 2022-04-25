@@ -44,6 +44,5 @@ object MethodNotation  extends  App{
   println(vini()) //equal
 
 println(vini + "crazy doll")
-println((+vini).age)
-  println(vini learnScala)
+
 }
