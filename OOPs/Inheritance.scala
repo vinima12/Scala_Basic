@@ -3,7 +3,7 @@ package OOPs
 object Inheritance  extends App {
 
   class flower {
-    protected def smell = println("nomnom")
+    protected def smell = println("nomnm")
   }
 
   class like extends flower {
